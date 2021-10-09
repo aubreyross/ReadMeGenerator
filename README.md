@@ -5,13 +5,13 @@
   This application is an efficient way to generate a ReadMe file for future projects.
 
   ## Table of Contents
-  - [Description] (#)
-  - [Installation] (#installation)
-  - [Usage] (#usage)
-  - [License] (#license)
-  - [Contributing] (#contributing)
-  - [Tests] (#tests)
-  - [Questions] (#questions)
+ - [Description] 
+ - [Installation]
+ - [Usage]
+ - [License] 
+ - [Contributing]
+ - [Tests]
+ - [Questions]
 
   ## Installation
   Please install the following: inquirer, fs, util
