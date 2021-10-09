@@ -7,13 +7,13 @@ function generateMarkdown(response) {
   ${response.description}
 
   ## Table of Contents
-  * [Description] (#)
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  - [Description] (#)
+  - [Installation] (#installation)
+  - [Usage] (#usage)
+  - [License] (#license)
+  - [Contributing] (#contributing)
+  - [Tests] (#tests)
+  - [Questions] (#questions)
 
   ## Installation
   Please install the following: ${response.installation}
