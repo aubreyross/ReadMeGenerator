@@ -13,6 +13,9 @@
  - [Tests]
  - [Questions]
 
+  ## Video
+  Walkthrough: https://youtu.be/-_EWXGs4Ehg
+
   ## Installation
   Please install the following: inquirer, fs, util
 
