@@ -1,38 +1,39 @@
-# ReadMeGenerator
+# Sample ReadMe Generator
 
+  ## Table Of Contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Video](#Video)
+* [Contribution](#Contribution)
 
-  ## Description
-  This application is an efficient way to generate a ReadMe file for future projects.
+  ## [Description](#Description)
+  This is an efficient way to generate a professional ReadMe for future projects.
+ 
 
-  ## Table of Contents
-  - [Description] (#)
-  - [Installation] (#installation)
-  - [Usage] (#usage)
-  - [License] (#license)
-  - [Contributing] (#contributing)
-  - [Tests] (#tests)
-  - [Questions] (#questions)
+  ## [Installation](#Installation)
+  Please install the following: download all files from the repo, run npm install inquirer and node index.js into the command lines.
 
-  ## Installation
-  Please install the following: inquirer, fs, util
+  ## [Usage](#Usage)
+  To utilize this app: by running node index.js
 
-  ## Usage
-  To utilize this app: download necessary applications and run in the terminal
-
-  ## License
+  ## [License](#License)
   This project is licensed under MIT. 
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
-  ## Contribution 
-  Aubrey Ross
+  ## [Video](#Video)
+  Walkthrough: https://youtu.be/-_EWXGs4Ehg
 
-  ## Tests
-  node index.js
+  ## [Contribution](#Contribution)
+  Aubrey Ross was the sole contrinbutor of this project.
 
-  ## Questions
+  ## [Test](#Tests)
+  No test instructions.
+
+  ## [Questions](#Questions)
   Should you have any questions, please direct to:
 
-  * Email: [aubrey.ross04@gmail.com] (mailto:aubrey.ross04@gmail.com)
+  * Email: aubrey.ross04@gmail.com
 
-  * Github: [aubreyross] (https://github.com/aubreyross)
-
+  * Github: https://github.com/aubreyross
