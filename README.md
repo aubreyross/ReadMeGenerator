@@ -23,7 +23,10 @@
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## [Video](#Video)
-  Walkthrough: https://youtu.be/-_EWXGs4Ehg
+  
+  Walkthrough: 
+  https://watch.screencastify.com/v/JXQpFB0zHnx6GwoXV6zE
+  https://youtu.be/-_EWXGs4Ehg
 
   ## [Contribution](#Contribution)
   Aubrey Ross was the sole contrinbutor of this project.
